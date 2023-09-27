@@ -13,14 +13,13 @@ or space requirements of an algorithm grow as the size of the input data (n) inc
  
 * Different types of Big Os:
 
-1. O(1): Constant time Complexity - (NO LOOPS)
-whe the algorithm's performance does not depend on the size of the input.
+1. O(1): Constant time Complexity - (NO LOOPS) 
+ * when the algorithm's performance does not depend on the size of the input.
 It is called constant time complexity with order O(1). This means that 
 the run time will always be the same regardless of the size of the input.
 
 
-2. O(n): Linear time complexity - (FOR LOOPS) and (WHILE LOOPS)
-the performance grows linearly with the input size.
+2. O(n): Linear time complexity - (FOR LOOPS) and (WHILE LOOPS) the performance grows linearly with the input size.
 
 
 
